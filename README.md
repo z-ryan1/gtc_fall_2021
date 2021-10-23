@@ -1,1 +1,3 @@
 # gtc_fall_2021
+
+Learn how Python users can use both CuPy and Numba APIs to accelerate and parallelize their code. We'll show how CuPy device arrays can benefit from the flexibility of custom Numba kernels. Coding samples will also show other useful features for GPU acceleration, such as CUDA library integration and memory management best practices. The benefit of using CuPy and Numba together will be compared to serial Python performing the same functionality. Performance analysis will be done using NVIDIA’s Nsight Systems system-wide profiler. Overall, we'll use code samples as the main mode of explaining implementation techniques, along with step-by-step performance analysis.
