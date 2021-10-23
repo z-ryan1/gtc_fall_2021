@@ -1,0 +1,11 @@
+name: gtc_env
+channels:
+  - conda-forge
+  - nvidia
+  - defaults
+  - numba
+dependencies:
+  - scipy
+  - numpy
+  - cupy
+  - numba
